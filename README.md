@@ -16,19 +16,19 @@
 Copy
 
 ```
-git@github.com:Hope1226/book-appointment-front-end.git
+git@github.com:zainsadaqat/hello-rails-front-end.git
 ```
 
 Go to your terminal and paste the following command
 
 ```
-git clone git@github.com:Hope1226/book-appointment-front-end.git
+git clone git@github.com:zainsadaqat/hello-rails-front-end.git
 ```
 
 Go to project folder
 
 ```
-cd book-appointment-front-end
+cd hello-rails-front-end
 ```
 
 Run the project
